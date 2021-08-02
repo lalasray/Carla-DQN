@@ -1,9 +1,10 @@
 # Carla-DQN
-python==3.6<br/>
+python3<br/>
 numpy<br/>
-tensorflow-gpu==1.14.0<br/>
-keras==2.2.4<br/>
-opencv-python==4.1.2<br/>
+tensorflow-gpu<br/>
+keras<br/>
+opencv-python<br/>
 matplotlib<br/>
 networkx<br/>
-Carla==0.9.11
+
+First open carla.exe then run play_DQN.py to visualize the pretarined version.
