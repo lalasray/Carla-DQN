@@ -6,3 +6,4 @@ keras==2.2.4<br/>
 opencv-python==4.1.2<br/>
 matplotlib<br/>
 networkx<br/>
+Carla==0.9.11
